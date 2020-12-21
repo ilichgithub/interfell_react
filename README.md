@@ -1,3 +1,12 @@
+Ilich Rondon
+
+## `npm install`
+para descargar las dependencias y luego
+
+### `npm start`
+
+para desplegar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
